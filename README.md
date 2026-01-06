@@ -21,4 +21,16 @@ If you encounter a problem:
    - Screenshots or videos (if possible)
 
 ---
-Achievements System 
+## 🛒 FAB Store Assets
+
+
+[Achievements System](https://www.fab.com/listings/58efb63f-56d8-40ec-83cf-e1cef1205044) 
+
+[Advanced Character Stats](https://www.fab.com/listings/d5ba2ed5-38e1-4d71-bf90-aaafbbc3363a)
+
+[Interaction system V2.5](https://www.fab.com/listings/d2ddcd0d-e9be-400c-96c2-d530adab9ce1)
+
+[Advanced Inventory System](https://www.fab.com/listings/421ac8ba-8328-4890-aca3-c1c5fd463274)
+
+
+
