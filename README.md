@@ -5,10 +5,10 @@ This repository is used **only for support and documentation** for my assets pub
 
 ---
 
-## 🛒 My FAB Store
-https://www.fab.com/sellers/Akitao%2099
+## [🛒 My FAB Store](https://www.fab.com/sellers/Akitao%2099)
 
-[FAB Store Assets](#FAB-Store-Assets)
+- [FAB Store Assets](#FAB-Store-Assets)
+- [Known Issues](#Known-Issues)
 
 ---
 ## 🐞 Reporting Issues
