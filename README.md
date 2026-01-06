@@ -30,6 +30,11 @@ Please rest assured that we are reviewing them carefully and will either **rebui
 Your feedback is extremely valuable and helps us improve our products.  
 Thank you for your patience and support! 🙏  **01/01/2026**
 
+
+## 🚧 Upcoming / Future Assets
+
+- 1.**Ultra Inventory System /Inventory Kernal** A flexible professional 100% Blueprint inventory system for any game type, with support for Drag & Drop, stacking, and easy custom data integration.
+
 ---
 ## FAB Store Assets
 - [Achievements System](https://www.fab.com/listings/58efb63f-56d8-40ec-83cf-e1cef1205044) 
